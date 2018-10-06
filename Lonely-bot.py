@@ -90,4 +90,4 @@ async def wink(ctx):
     
      
 
-bot.run("Mjc1NzExNDY2NjkzMTk3ODI2.DXh_wg.ujMgs2XvRvwPZiqKk8L3hnyD-gE")
+bot.run("")
